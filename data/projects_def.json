@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "Blazor Server",
+    "Desc": "Blazor Server",
+    "Script": "blazor_server_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0"
+  },
+  {
+    "Name": "Blazor Web Assembly",
+    "Desc": "Blazor Web Assembly",
+    "Script": "blazor_webassembly_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/pt-pt/aspnet/core/blazor/?view=aspnetcore-5.0"
+  },
+  {
+    "Name": "ASP NET Core MVC",
+    "Desc": "ASP NET Core MVC",
+    "Script": "asp_net_core_mvc_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0"
+  },
+  {
+    "Name": "ASP NET Core WebApi",
+    "Desc": "ASP NET Core WebApi",
+    "Script": "asp_net_core_webapi_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio"
+  },
+  {
+    "Name": "ASP NET Core WebApp",
+    "Desc": "ASP NET Core WebApp",
+    "Script": "asp_net_core_webapp_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-5.0"
+  },
+  {
+    "Name": "ASP NET Core Angular",
+    "Desc": "ASP NET Core Angular",
+    "Script": "asp_net_core_angular_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-5.0&tabs=visual-studio"
+  },
+  {
+    "Name": "Console Application",
+    "Desc": "Console Application",
+    "Script": "console_app_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019"
+  },
+  {
+    "Name": "Winforms Application",
+    "Desc": "Winforms Application",
+    "Script": "winforms_app_project.bat",
+    "Doc_Url": "https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2019"
+  },
+  {
+    "Name": "Angular Application",
+    "Desc": "Angular Application",
+    "Script": "angular_project.bat",
+    "Doc_Url": "https://angular.io/docs"
+  },
+  {
+    "Name": "React Application",
+    "Desc": "React Application",
+    "Script": "react_project.bat",
+    "Doc_Url": "https://reactjs.org/docs/getting-started.html"
+  },
+  {
+    "Name": "NativeScript Application",
+    "Desc": "NativeScript Application",
+    "Script": "nativescript_project.bat",
+    "Doc_Url": "https://docs.nativescript.org/"
+  },
+  {
+    "Name": "Flutter Application",
+    "Desc": "Flutter Application",
+    "Script": "flutter_project.bat",
+    "Doc_Url": "https://flutter.dev/docs"
+  },
+  {
+    "Name": "VueJS Application",
+    "Desc": "VueJS Application",
+    "Script": "vuejs_project.bat",
+    "Doc_Url": "https://v3.vuejs.org/guide/introduction.html"
+  }
+]
